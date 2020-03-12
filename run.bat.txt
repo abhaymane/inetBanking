@@ -1,0 +1,2 @@
+cd D:\Mavan\inetBanking 
+mvn clean install
